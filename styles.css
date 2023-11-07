@@ -1,0 +1,17 @@
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.frame{
+    border: 2px solid;
+    border-radius: 20px;
+}
+
+.outLine{
+    border: 2px solid;
+}
+
+body{
+    background-color:rgb(177, 176, 175);
+}
