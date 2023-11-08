@@ -4,8 +4,8 @@ Saroeut Sim, Jerie Villanueva
 11-5-2023
 Mini-Challenge 3 - Top 10s  -->
 We both made a webpage of our Top 10 Favorite Movies 
-Peer Reviewed by 
-Comments - 
+Peer Reviewed by Tony Fernandez & Alejandro De La Cruz-Rubio
+Comments - I very much enjoyed the the home page layout, the quotes was a very nice touch. The color selection for the background of the webpages was a good pick and compliments the movie posters. Project worked perfectly, also enjoyed the "trailer" buttons.
 
 
 Figma link
